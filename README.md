@@ -1,1 +1,1 @@
-# ESN
+# ESN - eSports Network
